@@ -1,6 +1,6 @@
 # Nitesh Kumar Pandit - Full Stack Developer Portfolio 🚀
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sonikumari.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio1-five-phi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitesh-Pandit/portfolio1)
 
 ---
