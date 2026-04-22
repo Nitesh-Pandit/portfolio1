@@ -30,7 +30,7 @@ function App() {
                   View Projects
                 </a>
                 <a 
-                    href="/resume.pdf" 
+                    href="/Resume.pdf" 
                     download="Nitesh_Kumar_Pandit_Resume.pdf"
                     className="btn btn-secondary"
                   >
